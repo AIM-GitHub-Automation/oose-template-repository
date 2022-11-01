@@ -25,6 +25,7 @@ In de achtergrond geef je aan waar en voor wie jij de opdracht uitvoert en wat v
 
 Denk in elk geval aan:
 * Beschrijving bedrijf/organisatie in je eigen woorden (geen teksten letterlijk overnemen van website)
+* De opdracht zoals die initieel is geformuleerd is door de opdrachtgever (verwoord in maximaal 1 alinea)
 * De belangrijkste groepen van stakeholders: wie hebben er –naast de opdrachtgever en de projectgroep- te maken met (de resultaten van) het project?
 * Indien relevant: organisatiestructuur van het onderdeel waar opdracht betrekking op heeft
 * De aanleiding voor het project: Wat is de urgentie van het project, de reden dat het bedrijf juist nu dit project wil laten uitvoeren (en niet een ander –mogelijk ook belangwekkend- project)?
@@ -33,8 +34,8 @@ Denk in elk geval aan:
 
 Als de aanleiding helder is geformuleerd beantwoord je de vraag naar ‘het waarom’ (de doelstelling) en ‘het wat’ (de beoogde resultaten) van het project.
 * Formuleer eerst het probleem of de uitdaging dat het bedrijf heeft: welk probleem/welke uitdaging moet door of voor het bedrijf worden opgelost? Bijvoorbeeld: het probleem is dat klanten via te veel verschillende kanalen contact opnemen met het bedrijf waardoor er geen goed beeld is of de klant al afdoende is geholpen. Waarom wil het bedrijf deze opdracht?
-* Aansluitend daarop formuleer je de doelstelling. Bijvoorbeeld: het bedrijf heeft wil alle contacten met de klant via de website te laten lopen. Let daarbij op: de doelstelling kan veel groter zijn dan jij met je resultaat oplost, dit is soms een veel te grote klus als afstudeer- of projectopdracht. Het is voldoende als jouw resultaat er een bijdrage aan levert.
-* Deze doelstelling mondt uit in jouw opdracht. Wat ga je precies voor het bedrijf doen, en wat ga je opleveren? Jij hebt misschien als opdracht: Ontwerp een goede user-interface voor de website. Of: ontwerp een perfecte database. Zo’n opdracht kan een essentiële bijdrage leveren aan het behalen van de doelstelling.
+* Aansluitend daarop formuleer je de doelstelling. Bijvoorbeeld: het bedrijf heeft wil alle contacten met de klant via de website te laten lopen. Let daarbij op: de doelstelling kan veel groter zijn dan jij met je resultaat oplost, dit is soms een veel te grote klus als afstudeer- of projectopdracht. Het is voldoende als jouw resultaat er een bijdrage aanlevert.
+* Deze doelstelling mondt uit in jouw opdracht. Het kan zijn dat de uiteindelijke opdracht afwijkt van wat de initiële opdracht in H2 was, omdat je in je eerste gesprekken binnen de organisatie hebt ontdekt wat de uiteindelijke opdracht is. Wat ga je precies voor het bedrijf doen, en wat ga je opleveren? Jij hebt misschien als opdracht: Ontwerp een goede user-interface voor de website. Of: ontwerp een perfecte database. Zo’n opdracht kan een essentiële bijdrage leveren aan het behalen van de doelstelling.
 * Formuleer welke concrete resultaten het bedrijf van jou wil krijgen als je project is afgelopen? Wat is af als het af is? Geef daarbij duidelijk aan welke vereisten op het moment van schrijven al bekend zijn. Het gaat dan bijvoorbeeld om programmeertaal, omgeving/platform. Mocht er al een ontwerpdocument of een concept meegeleverd worden met de opdracht, dan is dat een bijlage. Het is niet de bedoeling dat je zelf al ontwerpdocumentatie maakt in deze fase.
 
 ## Projectgrenzen
@@ -48,13 +49,18 @@ paragraaf baken je je project dus af. In elk geval ga je hierbij in op:
 
 ## Randvoorwaarden
 
-Succesvol zijn gaat maar zelden ‘zomaar’. Bij randvoorwaarden geef je SMART aan welke zaken door anderen voor jou geregeld moeten zijn zodat je zelf vlot door kunt werken. Denk bijvoorbeeld aan:
-* Schoolritme dicteert (denk hierbij bijvoorbeeld aan inleverdeadlines) externe opdrachtgevers
-* Schoolopdracht gaat voor (externe opdrachtgevers)
-* Beschikbaarheid begeleider bedrijf. Is hij bijvoorbeeld op de juiste momenten beschikbaar voor het geven van feedback en het tijdig nemen van beslissingen?
-* Welke resources (b.v. soft- of hardware) moeten er zijn om te kunnen werken? Denk aan toegang tot systemen, ontwikkelsoftware, aanschaffen van benodigde licenties.
+Succesvol zijn gaat maar zelden ‘zomaar’. Bij randvoorwaarden geef je SMART aan welke zaken uiterlijk wanneer door wie voor jou
+geregeld moeten zijn zodat je zelf vlot door kunt werken zodat het project op tijd en met de gewenste kwaliteit wordt opgeleverd.
+Denk bijvoorbeeld aan:
+* Wie levert uiterlijk op welk moment welke resources (b.v. soft- of hardware)? Denk aan toegang tot systemen,
+ontwikkelsoftware, aanschaffen van benodigde licenties.
+* Beschikbaarheid begeleider bedrijf. Is hij bijvoorbeeld op de juiste momenten beschikbaar voor het geven van feedback en
+het tijdig nemen van beslissingen?
+* De opdrachtgever zorgt bij de inrichting van het project dat de student in staat wordt gesteld inleverdeadlines van school te
+halen
 
-Gebruik bij het SMART maken de relevante aspecten van 5xW 1xH: Wie moet Wanneer Wat, Waar, Waarom en Hoe geregeld hebben zodat jouw project niet in gevaar komt.
+Gebruik bij het SMART maken de relevante aspecten van 5xW 1xH: Wie moet Wanneer Wat, Waar, Waarom en Hoe geregeld
+hebben zodat jouw project niet in gevaar komt.
 
 ## Op te leveren producten en kwaliteitseisen
 
@@ -84,7 +90,7 @@ Nu je weet wat je gaat opleveren (producten en kwaliteit daarvan) en wat je daar
 * Welke methoden hanteert het bedrijf en in hoeverre kun of moet je daar bij aansluiten?
 * Schrijft de school een methode voor (bij propedeuse- en semesterprojecten)?
 
-Wees hierbij wél kritisch: tijdens het afstuderen werk je bijvoorbeeld meestal in je eentje, en niet iedere methode (bijvoorbeeld Scrum bij het ontwikkelen van software) leent zich om individueel mee aan de slag te gaan. Soms is het handig om een methode daarop aan te passen. Dat kan, als je het maar goed onderbouwt en je daarbij baseert op betrouwbare bronnen. En als de methode is voorgeschreven: onderbouw waarom jij vindt dat deze methode passend is bij het soort project dat je moet gaan uitvoeren.Onderaan dit document vind je enkele suggesties voor literatuur over ontwikkelmethoden.
+Wees hierbij wél kritisch: tijdens het afstuderen werk je bijvoorbeeld meestal in je eentje, en niet iedere methode (bijvoorbeeld Scrum bij het ontwikkelen van software) leent zich om individueel mee aan de slag te gaan. Soms is het handig om een methode daarop aan te passen. Dat kan, als je het maar goed onderbouwt en je daarbij baseert op betrouwbare bronnen. En als de methode is voorgeschreven: onderbouw waarom jij vindt dat deze methode passend is bij het soort project dat je moet gaan uitvoeren. Onderaan dit document vind je enkele suggesties voor literatuur over ontwikkelmethoden.
 
 
 ## Projectorganisatie en communicatie
@@ -100,13 +106,17 @@ Nu de verlangde resultaten en ontwikkelmethode bekend zijn kun je pas de project
 
 ## Planning
 
-In dit hoofdstuk maak je een koppeling tussen de ontwikkelmethode en je activiteiten. Geef overzichtelijk weer wanneer de productopleveringen zijn, en wanneer belangrijke afspraken zijn. Zorg dat je ontwikkelmethode herkenbaar is in deze planning.
-
+In dit hoofdstuk maak je een koppeling tussen de ontwikkelmethode en je activiteiten. Geef overzichtelijk weer wanneer de productopleveringen/mijlpalen zijn. Laat afhankelijkheden zien (gebruik daarvoor bijvoorbeeld een GANTT_chart). Vermeld ook wanneer belangrijke afspraken zijn. Verwijs naar de plaats waar je detailplanning (straks) te vinden is. Zorg dat je ontwikkelmethode herkenbaar is in deze planning.
 
 ## Risico’s
 
-Dit hoofdstuk is een soort ‘final check’. Je vraagt je af ‘wat kan er nu nog mis gaan?’. Een risico is iets wat buiten je macht/invloed op kan treden, en als het optreedt dan wordt de doelstelling van het project niet gehaald. Het project wordt dan te laat, met budgetoverschrijding of met (sterk) verminderde functionaliteit opgeleverd. Iets wat kan optreden maar wat planmatig bestreden kan worden is dus geen risico. Dit soort zaken neem je op in je planning, je randvoorwaarden, of daar waar het in het plan van aanpak thuishoort. Denk bijvoorbeeld aan voldoende overlegmomenten met je opdrachtgever.
-Alléén de risico’s die je niet vooraf kunt beïnvloeden neem je op in deze paragraaf. Een voorbeeld: als je weet dat je tijdens je project gaat verhuizen kun je in je planning opnemen op welke dagen je niet werkt. Afwezigheid door verhuizing is dus geen risico. Maar, als je afhankelijk bent van de levering van een server door een nieuwe leverancier, kan het anders zijn. Natuurlijk neem je eerst in de planning op dat je er nog een keer extra achter aan belt (dit noemen we een tegenmaatregel), maar je vraagt je ook af wat je gaat doen als het onverhoopt tóch misgaat (je uitwijkstrategie). Dit geef je weer in een tabel die er zo uit kan zien:
+Dit hoofdstuk is een soort ‘final check’. Je vraagt je af ‘wat kan er nu nog mis gaan?’. De antwoorden op die vraag weeg je aan de hand van de definitie: Een risico is iets wat buiten je macht/invloed op kan treden, en àls het optreedt dan wordt de doelstelling van het project niet gehaald. Het project wordt dan te laat, met budgetoverschrijding of met (sterk) verminderde functionaliteit opgeleverd. 
+
+Iets wat kan optreden maar wat planmatig bestreden kan worden is dus geen risico. Dit soort zaken neem je op in je planning, je randvoorwaarden, of daar waar het in het plan van aanpak thuishoort. Denk bijvoorbeeld aan voldoende overlegmomenten met je opdrachtgever. Iets waarvan kans * impact te klein is neem je ook niet op. 
+
+Dit geldt ook voor risico’s die ver buiten de scope van je project liggen, zoals een hack van de systemen van de HAN. Alléén de risico’s die je niet vooraf kunt beïnvloeden neem uiteindelijk op in de risicotabel (zie hieronder). Een voorbeeld: als je weet dat je tijdens je project gaat verhuizen kun je in je planning opnemen op welke dagen je niet werkt. Afwezigheid door verhuizing is dus geen risico. Maar, als je afhankelijk bent van de levering van bijvoorbeeld een server, of drukwerk door een nieuwe leverancier, kan het anders zijn. Natuurlijk neem je eerst in de planning op dat je er nog een keer extra achter aan belt (dit noemen we een tegenmaatregel), maar je vraagt je ook af wat je gaat doen als het onverhoopt tóch misgaat (je uitwijkstrategie).
+
+In de risicotabel neem je nooit risico’s op die jezelf of de opdrachtgever in diskrediet brengen:
 
 | Risico | Kans | Impact | Tegenmaatregel | Uitwijkstrategie |
 | ------ | ---- | ------ | -------------- | ---------------- |
